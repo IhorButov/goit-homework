@@ -1,0 +1,17 @@
+/* цвет основного текста #212121 */ 
+/* другорядний колір #757575 */ 
+/* синій колір #2196F3 */ 
+/* adress color contants rgba(255, 255, 255, 0.6) */ 
+/* white color #FFFFFF */ 
+/* button color background: #2196F3; */
+/* secondary background: #F5F4FA */
+
+.page {color: #212121; background-color: #E5E5E5;}
+.page {font-family: 'Roboto';}
+ul {list-style: none;}
+.hero {font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
