@@ -6,15 +6,7 @@
 /* button color background: #2196F3; */
 /* secondary background: #F5F4FA */
 
-.page {color: #212121; background-color: #E5E5E5;}
-.page {font-family: 'Roboto';}
-ul {list-style: none;}
-.hero {font-weight: 700;
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: #212121;}
+body {font-family: 'Roboto'; color: #212121; background-color: #E5E5E5;}
 .site-link {font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
